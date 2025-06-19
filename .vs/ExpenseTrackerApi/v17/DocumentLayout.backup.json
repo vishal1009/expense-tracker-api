@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{603C305F-AB84-4960-B378-23B79CDAB57F}|ExpenseTrackerApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{603C305F-AB84-4960-B378-23B79CDAB57F}|ExpenseTrackerApi.csproj|c:\\users\\vishal dhongade\\source\\repos\\expensetrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{603C305F-AB84-4960-B378-23B79CDAB57F}|ExpenseTrackerApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{603C305F-AB84-4960-B378-23B79CDAB57F}|ExpenseTrackerApi.csproj|c:\\users\\vishal dhongade\\source\\repos\\expensetrackerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{603C305F-AB84-4960-B378-23B79CDAB57F}|ExpenseTrackerApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -62,8 +66,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-19T21:43:29.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -74,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
@@ -86,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20250618191436_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\Migrations\\20250618191436_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20250618191436_InitialCreate.cs",
@@ -98,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "ExpenseResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\DTOs\\ExpenseResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ExpenseResponseDto.cs",
@@ -110,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ExpenseRequestDto.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\DTOs\\ExpenseRequestDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ExpenseRequestDto.cs",
@@ -122,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\DTOs\\CategoryDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CategoryDto.cs",
@@ -153,14 +174,14 @@
               "RelativeDocumentMoniker": "ExpenseTrackerApi.csproj",
               "ToolTip": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\ExpenseTrackerApi.csproj",
               "RelativeToolTip": "ExpenseTrackerApi.csproj",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-06-19T20:13:02.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
@@ -172,19 +193,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
               "ToolTip": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-19T20:12:31.927Z"
+              "WhenOpened": "2025-06-19T20:12:31.927Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\Mappings\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "Mappings\\AutoMapperProfile.cs",
@@ -196,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ExpensesController.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\Controllers\\ExpensesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ExpensesController.cs",
@@ -208,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "CategoryResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\DTOs\\CategoryResponseDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CategoryResponseDto.cs",
@@ -220,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
