@@ -2142,8 +2142,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vishal Dhongade\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Vishal Dhongade\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -2154,9 +2153,6 @@
       "packagesPath": "C:\\Users\\Vishal Dhongade\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Vishal Dhongade\\source\\repos\\ExpenseTrackerApi\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\Vishal Dhongade\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
