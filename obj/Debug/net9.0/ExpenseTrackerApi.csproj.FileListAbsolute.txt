@@ -1,3 +1,11 @@
+C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.csproj.AssemblyReference.cache
+C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.AssemblyInfoInputs.cache
+C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.AssemblyInfo.cs
+C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.sourcelink.json
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\bin\Debug\net9.0\appsettings.json
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\bin\Debug\net9.0\ExpenseTrackerApi.staticwebassets.endpoints.json
@@ -30,13 +38,6 @@ C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\bin\Debug\net9.0\Swashbu
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\bin\Debug\net9.0\System.CodeDom.dll
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.csproj.AssemblyReference.cache
-C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.AssemblyInfoInputs.cache
-C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.AssemblyInfo.cs
-C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.csproj.CoreCompileInputs.cache
-C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\ExpenseTrackerApi.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\scopedcss\bundle\ExpenseTrackerApi.styles.css
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\Vishal Dhongade\source\repos\ExpenseTrackerApi\obj\Debug\net9.0\staticwebassets.development.json
