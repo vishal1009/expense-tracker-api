@@ -46,10 +46,11 @@ public class ExpensesController : ControllerBase
 
         var userId = int.Parse(User.FindFirstValue(ClaimTypes.NameIdentifier)!);
 
-        var category = await _db.Categories
-            .FirstOrDefaultAsync(c =>
-                c.UserId == userId &&
-                c.Name.Trim().ToLowerInvariant() == dto.CategoryName.Trim().ToLowerInvariant());
+        var category = _db.Categories
+        .Where(c => c.UserId == userId)
+        .AsEnumerable() 
+        .FirstOrDefault(c =>  c.Name.Trim().ToLowerInvariant() == dto.CategoryName.Trim().ToLowerInvariant());
+
 
         if (category == null)
         {
@@ -69,7 +70,7 @@ public class ExpensesController : ControllerBase
         _db.Expenses.Add(expense);
         await _db.SaveChangesAsync();
 
-        // Load category for DTO mapping
+        
         await _db.Entry(expense).Reference(e => e.Category).LoadAsync();
 
         var result = _mapper.Map<ExpenseResponseDto>(expense);
@@ -87,11 +88,11 @@ public class ExpensesController : ControllerBase
         if (expense == null)
             return NotFound();
 
-        // Find category by name
-        var category = await _db.Categories
-            .FirstOrDefaultAsync(c =>
-                c.UserId == userId &&
-                c.Name.Trim().ToLowerInvariant() == dto.CategoryName.Trim().ToLowerInvariant());
+
+        var category = _db.Categories
+        .Where(c => c.UserId == userId)
+        .AsEnumerable()
+        .FirstOrDefault(c => c.Name.Trim().ToLowerInvariant() == dto.CategoryName.Trim().ToLowerInvariant());
 
         if (category == null)
         {
@@ -105,7 +106,7 @@ public class ExpensesController : ControllerBase
 
         await _db.SaveChangesAsync();
 
-        // Reload category for updated DTO
+        
         await _db.Entry(expense).Reference(e => e.Category).LoadAsync();
 
         var result = _mapper.Map<ExpenseResponseDto>(expense);
